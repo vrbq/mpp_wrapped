@@ -8,7 +8,7 @@ A complete and autonomous ecosystem for data extraction, statistical analysis, a
 
 ![MPP Ranking Evolution Demo](example/evolution_classement.gif)
 
-👉 **[View the Interactive Neon Dashboard Demo (`example/dashboard_mpp.html`)](example/dashboard_mpp.html)**
+👉 **[🌐 View Live Interactive Neon Dashboard Demo](https://vrbq.github.io/mpp_wrapped/example/dashboard_mpp.html)**
 
 ---
 
