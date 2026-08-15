@@ -159,7 +159,7 @@ python generate_enhanced_dashboard.py YOUR_LEAGUE
 - **Fun Trophies Algorithms (with Tie Handling)**:
   - *Exact Score Streak*: Detection of the longest contiguous sequence of matches with `is_star == True`.
   - *Comeback / Drop*: Matrix analysis over the rank time series $R_{i,p}$ to find $\max(R_{i,p} - R_{j,p})$ with $i \le j$.
-  - *King of Position*: Occurrence frequency of each position $\operatorname{mode}(R_{*,p})$.
+  - *King of Position*: Occurrence frequency of each position $\text{mode}(R_{*,p})$.
   - *Abandonment*: Detection of the index $m$ beyond which no predictions were placed up to the last match of the tournament.
   - *Ties*: Grouping of all participants achieving the maximum score for each category and multi-badge formatting.
 
