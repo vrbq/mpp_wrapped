@@ -6,7 +6,7 @@
 
 A complete and autonomous ecosystem for data extraction, statistical analysis, and dynamic visualization for your **Mon Petit Prono (MPP)** leagues (World Cup, Euro, domestic leagues).
 
-![MPP Ranking Evolution Demo](DG8H98I5/evolution_classement.gif)
+![MPP Ranking Evolution Demo](example/evolution_classement.gif)
 
 ---
 
@@ -179,10 +179,10 @@ python generate_enhanced_dashboard.py YOUR_LEAGUE
 ## 🖼️ Sample Outputs & Visualizations
 
 ### 📊 Ranking Evolution Chart (`evolution_classement.png`)
-![Ranking Evolution](DG8H98I5/evolution_classement.png)
+![Ranking Evolution](example/evolution_classement.png)
 
 ### 📈 Points Evolution Chart (`evolution_points.png`)
-![Points Evolution](DG8H98I5/evolution_points.png)
+![Points Evolution](example/evolution_points.png)
 
 ---
 
