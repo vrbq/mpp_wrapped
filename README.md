@@ -6,6 +6,8 @@
 
 A complete and autonomous ecosystem for data extraction, statistical analysis, and dynamic visualization for your **Mon Petit Prono (MPP)** leagues (World Cup, Euro, domestic leagues).
 
+![MPP Ranking Evolution Demo](DG8H98I5/evolution_classement.gif)
+
 ---
 
 ## 📌 1. Project Overview
@@ -171,6 +173,16 @@ python generate_enhanced_dashboard.py YOUR_LEAGUE
 ### 5. Local Web Server & Orchestration (`server.py`)
 - **Asynchronous HTTP Server (`HTTPServer`)**: Multithreaded Python HTTP server managing REST APIs (`/api/run`, `/api/confirm_login`, `/api/session`, `/api/status`).
 - **Task Management & Threading Locks**: Usage of `threading.Lock()` to track progress of `subprocess.Popen` sub-processes and interact with their standard input (`stdin`).
+
+---
+
+## 🖼️ Sample Outputs & Visualizations
+
+### 📊 Ranking Evolution Chart (`evolution_classement.png`)
+![Ranking Evolution](DG8H98I5/evolution_classement.png)
+
+### 📈 Points Evolution Chart (`evolution_points.png`)
+![Points Evolution](DG8H98I5/evolution_points.png)
 
 ---
 

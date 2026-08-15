@@ -1,0 +1,74 @@
+{
+  "SuperSub": {
+    "winner_name": "Italie",
+    "winner_value": 3000,
+    "winner_obtained": false,
+    "scorer_name": "Meilleur buteur",
+    "scorer_value": 0,
+    "scorer_obtained": true
+  },
+  "KingKylian": {
+    "winner_name": "France",
+    "winner_value": 90,
+    "winner_obtained": false,
+    "scorer_name": "Harry Kane",
+    "scorer_value": 100,
+    "scorer_obtained": false
+  },
+  "FootixPro": {
+    "winner_name": "France",
+    "winner_value": 90,
+    "winner_obtained": false,
+    "scorer_name": "Harry Kane",
+    "scorer_value": 100,
+    "scorer_obtained": false
+  },
+  "CapitaineRamos": {
+    "winner_name": "Espagne",
+    "winner_value": 80,
+    "winner_obtained": true,
+    "scorer_name": "Lionel Messi",
+    "scorer_value": 80,
+    "scorer_obtained": false
+  },
+  "Zizou98": {
+    "winner_name": "France",
+    "winner_value": 90,
+    "winner_obtained": false,
+    "scorer_name": "Un Autre",
+    "scorer_value": 150,
+    "scorer_obtained": false
+  },
+  "CR7Legend": {
+    "winner_name": "Espagne",
+    "winner_value": 80,
+    "winner_obtained": true,
+    "scorer_name": "Lamine Yamal",
+    "scorer_value": 100,
+    "scorer_obtained": false
+  },
+  "TitiHenry": {
+    "winner_name": "Angleterre",
+    "winner_value": 100,
+    "winner_obtained": false,
+    "scorer_name": "Lamine Yamal",
+    "scorer_value": 100,
+    "scorer_obtained": false
+  },
+  "ElTaktiko": {
+    "winner_name": "Italie",
+    "winner_value": 3000,
+    "winner_obtained": false,
+    "scorer_name": "Meilleur buteur",
+    "scorer_value": 0,
+    "scorer_obtained": true
+  },
+  "CoachVahid": {
+    "winner_name": "Italie",
+    "winner_value": 3000,
+    "winner_obtained": false,
+    "scorer_name": "Meilleur buteur",
+    "scorer_value": 0,
+    "scorer_obtained": true
+  }
+}

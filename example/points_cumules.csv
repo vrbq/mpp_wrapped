@@ -1,0 +1,106 @@
+Match_Num,Date,Match,CR7Legend,CapitaineRamos,CoachVahid,ElTaktiko,FootixPro,KingKylian,SuperSub,TitiHenry,Zizou98
+1,jeudi 11 juin,Mexique 2 - 0 Afrique du Sud,69,69,0,0,49,69,49,69,0
+2,vendredi 12 juin,Canada 1 - 1 Bosnie,206,206,0,0,49,206,186,69,0
+3,vendredi 12 juin,Corée du Sud 2 - 1 Tchéquie,302,206,0,0,49,206,186,69,0
+4,samedi 13 juin,Brésil 1 - 1 Maroc,302,206,0,0,49,348,186,69,142
+5,samedi 13 juin,Qatar 1 - 1 Suisse,302,206,0,0,49,348,186,69,142
+6,samedi 13 juin,États-Unis 4 - 1 Paraguay,302,280,74,74,49,422,260,143,216
+7,dimanche 14 juin,Côte d’Ivoire 1 - 0 Équateur,302,280,74,74,157,422,398,143,324
+8,dimanche 14 juin,Pays-Bas 2 - 2 Japon,302,280,189,74,272,422,398,143,324
+9,dimanche 14 juin,Allemagne 7 - 1 Curaçao,317,295,189,74,287,437,413,158,339
+10,dimanche 14 juin,Australie 2 - 0 Turquie,317,295,189,74,287,437,413,158,339
+11,dimanche 14 juin,Haïti 0 - 1 Écosse,361,339,283,74,331,481,457,202,383
+12,lundi 15 juin,Arabie saoudite 1 - 1 Uruguay,506,339,283,74,331,481,457,202,383
+13,lundi 15 juin,Belgique 1 - 1 Égypte,506,339,425,74,331,481,457,202,383
+14,lundi 15 juin,Espagne 0 - 0 Cap-Vert,506,339,425,74,331,481,457,202,383
+15,lundi 15 juin,Suède 5 - 1 Tunisie,578,411,497,146,403,481,529,202,455
+16,mardi 16 juin,Irak 1 - 4 Norvège,608,411,497,146,433,511,559,232,455
+17,mardi 16 juin,France 3 - 1 Sénégal,654,457,573,222,509,557,635,278,547
+18,mardi 16 juin,Iran 2 - 2 Nouvelle-Zélande,770,573,689,388,509,673,751,278,663
+19,mercredi 17 juin,Ghana 1 - 0 Panama,770,646,689,388,509,746,751,278,756
+20,mercredi 17 juin,Angleterre 4 - 2 Croatie,829,646,689,447,509,864,810,278,756
+21,mercredi 17 juin,Portugal 1 - 1 RD Congo,829,646,689,447,509,864,810,278,756
+22,mercredi 17 juin,Autriche 3 - 1 Jordanie,867,684,689,485,547,902,848,316,794
+23,mercredi 17 juin,Argentine 3 - 0 Algérie,867,727,732,528,547,902,891,316,887
+24,jeudi 18 juin,Canada 6 - 0 Qatar,867,727,732,528,618,973,1033,316,958
+25,jeudi 18 juin,Suisse 4 - 1 Bosnie,943,727,732,528,618,1049,1109,316,1034
+26,jeudi 18 juin,Tchéquie 1 - 1 Afrique du Sud,943,859,732,528,618,1049,1109,316,1146
+27,jeudi 18 juin,Ouzbékistan 1 - 3 Colombie,987,903,732,572,618,1093,1153,316,1190
+28,vendredi 19 juin,Écosse 0 - 1 Maroc,1128,994,732,663,709,1184,1153,316,1281
+29,vendredi 19 juin,États-Unis 2 - 0 Australie,1128,1052,732,663,709,1272,1211,374,1339
+30,vendredi 19 juin,Mexique 1 - 0 Corée du Sud,1128,1121,732,663,709,1341,1211,443,1339
+31,samedi 20 juin,Allemagne 2 - 1 Côte d’Ivoire,1166,1159,732,701,747,1379,1249,481,1339
+32,samedi 20 juin,Pays-Bas 5 - 1 Suède,1166,1159,799,701,814,1379,1316,481,1339
+33,samedi 20 juin,Turquie 0 - 1 Paraguay,1292,1159,799,701,814,1379,1316,481,1339
+34,samedi 20 juin,Brésil 3 - 0 Haïti,1313,1180,820,722,835,1420,1316,502,1360
+35,dimanche 21 juin,Uruguay 2 - 2 Cap-Vert,1313,1289,820,831,835,1420,1316,611,1360
+36,dimanche 21 juin,Belgique 0 - 0 Iran,1313,1289,820,831,835,1420,1316,611,1360
+37,dimanche 21 juin,Espagne 4 - 0 Arabie saoudite,1344,1320,851,862,866,1451,1347,642,1391
+38,dimanche 21 juin,Tunisie 0 - 4 Japon,1435,1320,851,953,957,1542,1347,642,1482
+39,dimanche 21 juin,Équateur 0 - 0 Curaçao,1435,1320,851,953,957,1542,1347,642,1482
+40,lundi 22 juin,France 3 - 0 Irak,1457,1342,873,975,979,1584,1369,642,1524
+41,lundi 22 juin,Argentine 2 - 0 Autriche,1520,1342,936,1038,1072,1647,1432,705,1617
+42,lundi 22 juin,Nouvelle-Zélande 1 - 3 Égypte,1579,1342,936,1097,1072,1706,1432,764,1676
+43,mardi 23 juin,Panama 0 - 1 Croatie,1579,1378,936,1133,1108,1742,1468,850,1712
+44,mardi 23 juin,Angleterre 0 - 0 Ghana,1579,1378,1063,1133,1108,1742,1468,850,1839
+45,mardi 23 juin,Portugal 5 - 0 Ouzbékistan,1603,1402,1087,1227,1108,1766,1562,874,1863
+46,mardi 23 juin,Jordanie 1 - 2 Algérie,1603,1469,1087,1294,1108,1863,1629,941,1930
+47,mardi 23 juin,Norvège 3 - 2 Sénégal,1603,1533,1201,1294,1108,1863,1629,1055,1930
+48,mercredi 24 juin,Maroc 4 - 2 Haïti,1632,1562,1201,1323,1137,1892,1658,1084,1959
+49,mercredi 24 juin,Écosse 0 - 3 Brésil,1680,1660,1201,1371,1235,1940,1706,1132,2007
+50,mercredi 24 juin,Bosnie 3 - 1 Qatar,1680,1660,1201,1458,1322,1940,1706,1132,2007
+51,mercredi 24 juin,Suisse 2 - 1 Canada,1680,1748,1201,1458,1322,1940,1706,1220,2095
+52,mercredi 24 juin,Colombie 1 - 0 RD Congo,1680,1825,1278,1535,1399,1940,1833,1220,2172
+53,jeudi 25 juin,Japon 1 - 1 Suède,1788,1825,1386,1535,1399,1940,1833,1348,2172
+54,jeudi 25 juin,Tunisie 1 - 3 Pays-Bas,1894,1881,1386,1591,1455,1996,1939,1454,2228
+55,jeudi 25 juin,Curaçao 0 - 2 Côte d’Ivoire,1967,1881,1386,1644,1508,2069,2012,1527,2301
+56,jeudi 25 juin,Équateur 2 - 1 Allemagne,1967,1881,1386,1644,1673,2069,2012,1527,2301
+57,jeudi 25 juin,Tchéquie 0 - 3 Mexique,1967,1972,1386,1805,1764,2160,2103,1527,2392
+58,jeudi 25 juin,Afrique du Sud 1 - 0 Corée du Sud,1967,1972,1386,1805,1764,2160,2103,1527,2392
+59,vendredi 26 juin,Norvège 1 - 4 France,1967,1972,1454,1873,1832,2160,2171,1595,2460
+60,vendredi 26 juin,Sénégal 5 - 0 Irak,2021,2026,1454,1927,1886,2214,2225,1649,2514
+61,vendredi 26 juin,Paraguay 0 - 0 Australie,2021,2026,1454,2031,1990,2318,2329,1753,2514
+62,vendredi 26 juin,Turquie 3 - 2 États-Unis,2021,2026,1454,2031,1990,2318,2329,1753,2514
+63,samedi 27 juin,Colombie 0 - 0 Portugal,2021,2026,1454,2031,1990,2318,2329,1753,2514
+64,samedi 27 juin,RD Congo 3 - 1 Ouzbékistan,2084,2089,1517,2031,2053,2381,2392,1753,2514
+65,samedi 27 juin,Croatie 2 - 1 Ghana,2084,2166,1517,2031,2053,2381,2392,1753,2514
+66,samedi 27 juin,Panama 0 - 2 Angleterre,2116,2198,1517,2031,2085,2443,2454,1785,2546
+67,samedi 27 juin,Égypte 1 - 1 Iran,2116,2198,1517,2031,2219,2443,2454,1785,2546
+68,samedi 27 juin,Nouvelle-Zélande 1 - 5 Belgique,2116,2230,1517,2063,2251,2475,2486,1817,2578
+69,samedi 27 juin,Cap-Vert 0 - 0 Arabie saoudite,2116,2230,1640,2186,2251,2475,2486,1940,2578
+70,samedi 27 juin,Uruguay 0 - 1 Espagne,2243,2287,1640,2243,2308,2532,2543,1997,2635
+71,dimanche 28 juin,Afrique du Sud 0 - 1 Canada,2243,2351,1704,2307,2372,2596,2607,1997,2699
+72,dimanche 28 juin,Algérie 3 - 3 Autriche,2243,2351,1807,2307,2475,2699,2710,2100,2802
+73,dimanche 28 juin,Jordanie 1 - 3 Argentine,2275,2383,1839,2307,2507,2731,2742,2132,2834
+74,lundi 29 juin,Allemagne 1 - 1 Paraguay,2275,2383,1979,2307,2507,2731,2742,2272,2834
+75,lundi 29 juin,Brésil 2 - 1 Japon,2340,2448,2064,2372,2572,2796,2807,2337,2919
+76,mardi 30 juin,France 3 - 0 Suède,2378,2516,2102,2440,2640,2834,2875,2375,2957
+77,mardi 30 juin,Côte d’Ivoire 1 - 2 Norvège,2378,2591,2102,2515,2735,2834,2875,2375,2957
+78,mardi 30 juin,Pays-Bas 1 - 1 Maroc,2378,2591,2102,2515,2735,2968,3009,2489,3071
+79,mercredi 01 juillet,Belgique 3 - 2 Sénégal,2378,2591,2182,2515,2815,2968,3009,2489,3071
+80,mercredi 01 juillet,Angleterre 2 - 1 RD Congo,2378,2630,2182,2554,2854,3057,3048,2528,3110
+81,mercredi 01 juillet,Mexique 2 - 0 Équateur,2492,2714,2182,2668,2938,3171,3162,2612,3194
+82,jeudi 02 juillet,Portugal 2 - 1 Croatie,2492,2807,2255,2741,3031,3244,3235,2612,3194
+83,jeudi 02 juillet,Espagne 3 - 0 Autriche,2533,2848,2296,2832,3122,3335,3326,2653,3235
+84,jeudi 02 juillet,États-Unis 2 - 0 Bosnie,2585,2900,2296,2832,3174,3387,3378,2725,3307
+85,vendredi 03 juillet,Argentine 3 - 2 Cap-Vert,2610,2925,2321,2857,3199,3412,3403,2750,3307
+86,vendredi 03 juillet,Australie 1 - 1 Égypte,2716,2925,2427,2857,3199,3538,3529,2750,3307
+87,vendredi 03 juillet,Suisse 2 - 0 Algérie,2777,3016,2488,2918,3199,3538,3620,2750,3398
+88,samedi 04 juillet,Paraguay 0 - 1 France,2805,3044,2516,2946,3227,3566,3648,2778,3426
+89,samedi 04 juillet,Canada 0 - 3 Maroc,2873,3044,2516,2946,3295,3634,3716,2846,3494
+90,samedi 04 juillet,Colombie 1 - 0 Ghana,2873,3160,2582,3012,3361,3634,3716,2912,3560
+91,dimanche 05 juillet,Brésil 1 - 2 Norvège,3003,3160,2582,3012,3361,3634,3716,2912,3560
+92,lundi 06 juillet,Portugal 0 - 1 Espagne,3075,3232,2582,3012,3505,3706,3788,2984,3560
+93,lundi 06 juillet,Mexique 2 - 3 Angleterre,3075,3325,2582,3012,3598,3799,3881,2984,3560
+94,mardi 07 juillet,Suisse 0 - 0 Colombie,3075,3325,2582,3012,3598,3799,3994,2984,3560
+95,mardi 07 juillet,Argentine 3 - 2 Égypte,3075,3368,2625,3055,3641,3842,4037,3027,3603
+96,mardi 07 juillet,États-Unis 1 - 4 Belgique,3075,3368,2625,3055,3641,3842,4037,3027,3603
+97,jeudi 09 juillet,France 2 - 0 Maroc,3075,3472,2679,3109,3695,3896,4091,3081,3657
+98,vendredi 10 juillet,Espagne 2 - 1 Belgique,3075,3552,2679,3169,3755,3976,4171,3141,3717
+99,samedi 11 juillet,Norvège 1 - 2 Angleterre,3075,3629,2679,3266,3832,4073,4268,3238,3717
+100,dimanche 12 juillet,Argentine 3 - 1 Suisse,3075,3693,2679,3266,3896,4073,4268,3238,3717
+101,mardi 14 juillet,France 0 - 2 Espagne,3190,3693,2679,3266,3896,4073,4268,3238,3717
+102,mercredi 15 juillet,Angleterre 1 - 2 Argentine,3190,3693,2679,3266,3896,4073,4268,3238,3717
+103,samedi 18 juillet,France 4 - 6 Angleterre,3309,3693,2679,3266,3896,4073,4268,3357,3717
+104,dimanche 19 juillet,Espagne 1 - 0 Argentine,3489,3833,2679,3446,3986,4163,4268,3497,3807
+105,Bonus,Bonus Vainqueur & Buteur,3569,3913,2679,3446,3986,4163,4268,3497,3807
